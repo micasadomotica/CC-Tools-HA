@@ -1,5 +1,9 @@
 # CC Tools Dev para Home Assistant
 
+> **El desarrollo continúa en [CC-Tools-Dev-HA](https://github.com/micasadomotica/CC-Tools-Dev-HA), con `main` como rama predeterminada y la versión 1.0.50 preparada para instalar y actualizar desde la tienda de Apps de Home Assistant.**
+>
+> La base 1.0.49 ha sido confirmada como probada y funcional en Home Assistant. Si utilizas la instalación local, sigue la [guía de migración para conservar los datos](https://github.com/micasadomotica/CC-Tools-Dev-HA/blob/main/MIGRACION.md) antes de cambiar de instalación. Este repositorio conserva el historial y las publicaciones anteriores; las instrucciones siguientes corresponden al método local histórico.
+
 CC Tools Dev es la edición de desarrollo de este fork de [CC Tools de TitoTB](https://github.com/TitoTB/CC-Tools-HA). Permite probar funciones y mantener cambios propios para automatizar tareas de Creality Cloud desde Home Assistant.
 
 Se instala como aplicación local y utiliza el puerto **8088**. Puede convivir con la aplicación de TitoTB instalada desde su repositorio, que utiliza el puerto **8080** por defecto.
